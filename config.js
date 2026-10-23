@@ -7,8 +7,8 @@ window.CONFIG = {
   SITE_NAME: 'The Science Center · مركز العلوم',
 
   // From Supabase → Project Settings → API (or "Connect" button)
-  SUPABASE_URL: '',        // looks like: https://abcdefgh.supabase.co
-  SUPABASE_ANON_KEY: '',   // the "anon public" / "publishable" key (safe to share)
+  SUPABASE_URL: 'https://qnansyksgdhvurjadlyi.supabase.co',        // looks like: https://abcdefgh.supabase.co
+  SUPABASE_ANON_KEY: 'sb_publishable_ChW9m0LDp3WJDyGRaDEFfA_TcaduAsP',   // the "anon public" / "publishable" key (safe to share)
 
   // Usernames are turned into hidden login emails like  username@THIS-DOMAIN.
   // No email is ever sent. You don't need to own this domain.
